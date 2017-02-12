@@ -1,4 +1,4 @@
-package com.wanfang.file.tool;
+package com.wanfang.common.convert.file.tool;
 
 public class FileTool {
 	private FileTool() {

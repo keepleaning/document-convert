@@ -1,4 +1,4 @@
-package com.wanfang.core.exception;
+package com.wanfang.common.convert.core.exception;
 
 /**
  * 方法未实现时抛出该异常

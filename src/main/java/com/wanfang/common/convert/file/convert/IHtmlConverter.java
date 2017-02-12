@@ -1,9 +1,9 @@
-package com.wanfang.file.convert;
+package com.wanfang.common.convert.file.convert;
 
 import java.util.List;
 
-import com.wanfang.core.exception.XyException;
-import com.wanfang.file.tool.FileTool;
+import com.wanfang.common.convert.core.exception.XyException;
+import com.wanfang.common.convert.file.tool.FileTool;
 
 /**
  * 将其它格式的文件转换为html

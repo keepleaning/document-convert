@@ -1,4 +1,4 @@
-package com.wanfang.core.exception;
+package com.wanfang.common.convert.core.exception;
 
 /**
  * 当参数无效时抛出该异常
